@@ -15,7 +15,7 @@ public class NuevaFuncionalidad {
 
     public static void main(String[] args) {
         
-        System.out.println("Hola, Buenos Días!");
+        System.out.println("Hola, Buenos Días!!");
         System.out.println("¿Cual es tu nombre?");
         String nombre = sc.nextLine();
         System.out.println("Hola, " + nombre + ", Bienvenido a la Calculadora:");
