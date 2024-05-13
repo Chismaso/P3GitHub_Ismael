@@ -33,5 +33,6 @@ public class NuevaFuncionalidad {
         System.out.println("El resultado de la modulación es: " + mod);
             int division = num1 / num2;
             System.out.println("El resultado de la división es: " + division);
+            System.out.println("VICTOR HA ESTADO AQUÍ");
     }
 }
